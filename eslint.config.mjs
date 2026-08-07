@@ -13,7 +13,7 @@ export default [
 
       // Prefer const when variables are never reassigned
       "prefer-const": "error",
-
+      "prefer-const": "error",
       // Enforce double quotes
       quotes: ["error", "double"],
 
