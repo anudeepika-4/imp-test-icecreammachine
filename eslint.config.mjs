@@ -7,6 +7,7 @@ export default [
     rules: {
       // Disallow var
       "no-var": "error",
+      //test webhook
 
       // Prefer const when variables are never reassigned
       "prefer-const": "error",
