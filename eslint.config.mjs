@@ -7,6 +7,7 @@ export default [
     rules: {
       // Disallow var
       "no-var": "error",
+      "no-var": "error",
       //test webhook
       //test webhook again 
       //test 
